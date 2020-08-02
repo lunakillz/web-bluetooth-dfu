@@ -6,7 +6,7 @@
   "author": "Rob Moran <github@thegecko.org>",
   "license": "MIT",
   "types": "./types/index.d.ts",
-  "main": "./index.js",
+  "main": "./dist/secure-dfu.js",
   "browser": {
     "./index.js": "./dist/secure-dfu.js"
   },
