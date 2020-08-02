@@ -10,6 +10,7 @@
             "es2015.promise",           // Promise
             "es2015.symbol.wellknown"   // Map
         ],
+        "outDir": "./dist",
         "alwaysStrict": true,
         "noEmitOnError": true,
         "noUnusedLocals": true,
