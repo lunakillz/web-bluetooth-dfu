@@ -23,4 +23,4 @@
 * SOFTWARE.
 */
 
-module.exports = require("./lib/SecureDfu");
+module.exports = require("./dist/SecureDfu");
